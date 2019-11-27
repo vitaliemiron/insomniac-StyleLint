@@ -1,2 +1,5 @@
-# insomniac-styleLint
-Insomniac Design Style Lint
+# @insomniac/stylelint-config
+
+Insomniac StyleLint extensible and sharable configuration.
+
+## Usage
