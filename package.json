@@ -1,0 +1,24 @@
+{
+  "name": "insomniac-stylelint",
+  "version": "1.0.0",
+  "description": "Insomniac StyleLint extensible and sharable configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaliemiron/insomniac-styleLint.git"
+  },
+  "author": "omiron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitaliemiron/insomniac-styleLint/issues"
+  },
+  "homepage": "https://github.com/vitaliemiron/insomniac-styleLint#readme",
+  "devDependencies": {
+    "stylelint": "^12.0.0",
+    "stylelint-config-recess-order": "^2.0.3",
+    "stylelint-config-standard": "^19.0.0"
+  }
+}
