@@ -4,7 +4,7 @@
     "no-empty-source": null,
     "declaration-block-no-duplicate-properties": true,
     "color-named": "never",
-    "function-url-no-scheme-relat˜ive": true,
+    "function-url-no-scheme-relative": true,
     "function-url-scheme-blacklist": ["ftp", "/^http/", "/^www/", "//"],
     "keyframes-name-pattern": "ani-.+",
     "number-max-precision": 2,
