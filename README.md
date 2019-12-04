@@ -1,4 +1,4 @@
-# Recess\* Property Order
+# Insomniac\* StyleLint
 
 [![npm version][npm-img]][npm-url]
 [![npm downloads][npm-dls]][npm-url]
