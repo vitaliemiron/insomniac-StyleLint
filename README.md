@@ -25,7 +25,10 @@ Stylelint is a tool that reports bad code in your CSS files. It helps to enforce
     ```sh
     npm install --save-dev stylelint insomniac-stylelint
     ```
-2.  Configure your stylelint configuration file to extend this package:  
+
+2. Add file .stylelintrc.json in root of your theme
+
+3.  Configure your stylelint configuration file to extend this package:  
     ```js
     {
       "extends": "insomniac-stylelint",
