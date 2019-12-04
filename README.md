@@ -38,6 +38,9 @@ Stylelint is a tool that reports bad code in your CSS files. It helps to enforce
     }
     ```
 
+## Visual Studio Code
+Install [VSCode-extension][]
+
 ## References
 
 [@mdo on CSS Property Order][mdo-order]
@@ -69,3 +72,5 @@ Stylelint is a tool that reports bad code in your CSS files. It helps to enforce
 [does]: https://github.com/twbs/bootstrap/blob/ba878eb542ab6c04786741569ba089d02e9bea46/.stylelintrc#L36
 
 [mdo-order]: http://markdotto.com/2011/11/29/css-property-order/
+
+[VSCode-extension]: https://marketplace.visualstudio.com/items?itemName=thibaudcolas.stylelint
