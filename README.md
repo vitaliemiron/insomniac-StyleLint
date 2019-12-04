@@ -9,6 +9,8 @@
 A [Stylelint][] config that sorts CSS properties the way [Recess][] did and
 Bootstrap [did][]/[does][].
 
+Stylelint is a tool that reports bad code in your CSS files. It helps to enforce the consistent code and prevents you from making errors in your stylesheets. It is highly configurable. 
+
 \*With some modifications & additions for modern properties.
 
 ## Sort config
