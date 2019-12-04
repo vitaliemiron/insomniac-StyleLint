@@ -11,7 +11,11 @@ Bootstrap [did][]/[does][].
 
 \*With some modifications & additions for modern properties.
 
+## Sort config
 ![Alt Text](https://raw.githubusercontent.com/vitaliemiron/insomniac-styleLint/readme/img/order.gif)
+
+## Syntax checker
+![Alt Text](https://raw.githubusercontent.com/vitaliemiron/insomniac-styleLint/readme/img/syntax.gif)
 
 ## Usage
 
