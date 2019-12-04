@@ -30,5 +30,8 @@ extends:
 ```
 
 ## Visual Studio Code
+
+```
   Install extension stylelint
   Reload VS Code
+```
