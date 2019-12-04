@@ -39,7 +39,8 @@ Stylelint is a tool that reports bad code in your CSS files. It helps to enforce
     ```
 
 ## Visual Studio Code
-Install [VSCode-extension][]
+
+Install [VSCode-extension][] stylelint.
 
 ## References
 
