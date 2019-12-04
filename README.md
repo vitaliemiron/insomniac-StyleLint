@@ -11,6 +11,8 @@ Bootstrap [did][]/[does][].
 
 \*With some modifications & additions for modern properties.
 
+![Alt Text](https://raw.githubusercontent.com/vitaliemiron/insomniac-styleLint/readme/img/order.gif)
+
 ## Usage
 
 1.  Add [stylelint][] and this package to your project:  
