@@ -15,12 +15,12 @@ Bootstrap [did][]/[does][].
 
 1.  Add [stylelint][] and this package to your project:  
     ```sh
-    npm install --save-dev stylelint stylelint-config-recess-order
+    npm install --save-dev stylelint insomniac-stylelint
     ```
 2.  Configure your stylelint configuration file to extend this package:  
     ```js
     {
-      "extends": "stylelint-config-recess-order",
+      "extends": "insomniac-stylelint",
       "rules": {
         // Add overrides and additional rules here
       }
@@ -31,23 +31,23 @@ Bootstrap [did][]/[does][].
 
 [@mdo on CSS Property Order][mdo-order]
 
-[npm-url]: https://www.npmjs.com/package/stylelint-config-recess-order
+[npm-url]: https://www.npmjs.com/package/insomniac-stylelint
 
-[npm-img]: https://img.shields.io/npm/v/stylelint-config-recess-order.svg?style=flat-square
+[npm-img]: https://img.shields.io/npm/v/insomniac-stylelint.svg?style=flat-square
 
-[npm-dls]: https://img.shields.io/npm/dt/stylelint-config-recess-order.svg?style=flat-square
+[npm-dls]: https://img.shields.io/npm/dt/insomniac-stylelint.svg?style=flat-square
 
-[david-url]: https://david-dm.org/stormwarning/stylelint-config-recess-order
+[david-url]: https://david-dm.org/stormwarning/insomniac-stylelint
 
-[david-img]: https://img.shields.io/david/stormwarning/stylelint-config-recess-order.svg?style=flat-square
+[david-img]: https://img.shields.io/david/stormwarning/insomniac-stylelint.svg?style=flat-square
 
-[travis-url]: https://travis-ci.org/stormwarning/stylelint-config-recess-order
+[travis-url]: https://travis-ci.org/stormwarning/insomniac-stylelint
 
-[travis-img]: https://img.shields.io/travis/stormwarning/stylelint-config-recess-order.svg?style=flat-square
+[travis-img]: https://img.shields.io/travis/stormwarning/insomniac-stylelint.svg?style=flat-square
 
-[issues-url]: https://github.com/stormwarning/stylelint-config-recess-order/issues
+[issues-url]: https://github.com/stormwarning/insomniac-stylelint/issues
 
-[issues-img]: https://img.shields.io/github/issues/stormwarning/stylelint-config-recess-order.svg?style=flat-square
+[issues-img]: https://img.shields.io/github/issues/stormwarning/insomniac-stylelint.svg?style=flat-square
 
 [stylelint]: https://github.com/stylelint/stylelint
 
