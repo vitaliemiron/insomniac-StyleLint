@@ -10,6 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/vitaliemiron/insomniac-styleLint.git"
   },
+  "keywords": [
+    "insomniac",
+    "frontend",
+    "style",
+    "drupal",
+    "stylelint",
+    "config",
+    "rules"
+  ],
   "author": "omiron",
   "license": "ISC",
   "bugs": {
