@@ -1,6 +1,6 @@
 {
   "name": "insomniac-stylelint",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "Insomniac StyleLint extensible and sharable configuration.",
   "main": "index.js",
   "scripts": {
