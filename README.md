@@ -46,7 +46,7 @@ Install [VSCode-extension][] stylelint.
  Add extend in your stylelint.json
 
   ```js
-        {
+    {
       "extends": "insomniac-stylelint",
       "plugins": [
         "@namics/stylelint-bem"
