@@ -1,7 +1,30 @@
 {
-  "extends": ["stylelint-config-standard", "stylelint-config-recess-order","stylelint-scss"],
+  "extends": ["stylelint-config-standard", "stylelint-config-recess-order"],
+  "plugins": [
+    "stylelint-scss"
+  ],
+
   "rules": {
+    "no-empty-source": null,
+    "declaration-block-no-duplicate-properties": true,
+    "color-named": "never",
     "at-rule-no-unknown": null,
-    "scss/at-rule-no-unknown": true
+    "scss/at-rule-no-unknown": true,
+    "function-url-quotes": "never",
+    "number-leading-zero": "never",
+    "string-quotes": "single",
+    "selector-list-comma-newline-after": "always-multi-line",
+    "selector-list-comma-space-after": "always-single-line",
+    "at-rule-name-newline-after": "always-multi-line",
+    "at-rule-semicolon-space-before": "never",
+    "linebreaks": "unix",
+    "max-line-length": 120,
+    "no-empty-first-line": true,
+    "at-rule-no-unknown": [
+      true,
+      {
+        "ignoreAtRules": ["function", "for", "if", "each", "include", "mixin"]
+      }
+    ]
   }
 }
