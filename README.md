@@ -42,20 +42,6 @@ Stylelint is a tool that reports bad code in your CSS files. It helps to enforce
 
 Install [VSCode-extension][] stylelint.
 
-## Enable BEM support
- Add extend in your stylelint.json
-
-  ```js
-    {
-      "extends": "insomniac-stylelint",
-      "plugins": [
-        "@namics/stylelint-bem"
-      ],
-      "rules": {
-        // Add overrides and additional rules here
-      }
-    }
-  ```
 
 ## References
 

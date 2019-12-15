@@ -1,7 +1,7 @@
 {
   "name": "insomniac-stylelint",
   "version": "1.4.2",
-  "description": "Insomniac StyleLint extensible and sharable configuration.",
+  "description": "Insomniac Design StyleLint extensible and sharable configuration for Drupal 8",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\""
@@ -15,6 +15,9 @@
     "frontend",
     "style",
     "drupal",
+    "drupal8",
+    "drupal style",
+    "react",
     "stylelint",
     "config",
     "rules"
@@ -27,9 +30,7 @@
   "homepage": "https://github.com/vitaliemiron/insomniac-styleLint#readme",
   "devDependencies": {},
   "dependencies": {
-    "@namics/stylelint-bem": "^6.2.0",
     "stylelint-config-recess-order": "^2.0.3",
-    "stylelint-config-standard": "^19.0.0",
-    "stylelint-scss": "^3.13.0"
+    "stylelint-config-standard": "^19.0.0"
   }
 }
