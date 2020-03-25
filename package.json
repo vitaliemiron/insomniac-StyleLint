@@ -28,10 +28,9 @@
     "url": "https://github.com/vitaliemiron/insomniac-styleLint/issues"
   },
   "homepage": "https://github.com/vitaliemiron/insomniac-styleLint#readme",
-  "devDependencies": {},
   "dependencies": {
     "stylelint-config-recess-order": "^2.0.4",
-    "stylelint-config-standard": "^19.0.0",
+    "stylelint-config-standard": "^20.0.0",
     "stylelint-scss": "^3.16.0"
   }
 }
