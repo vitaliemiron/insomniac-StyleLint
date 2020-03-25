@@ -27,6 +27,10 @@
       {
         "ignoreAtRules": ["function", "for", "if", "each", "include", "mixin"]
       }
-    ]
+    ],
+    "plugin/stylelint-bem-namics": {
+      "patternPrefixes": [],
+      "helperPrefixes": []
+    }
   }
 }
