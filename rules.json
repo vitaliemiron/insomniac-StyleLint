@@ -1,10 +1,12 @@
 {
-  "extends": ["stylelint-config-standard", "stylelint-config-recess-order", "@namics/stylelint-bem"],
+  "extends": ["stylelint-config-standard", "stylelint-config-recess-order"],
   "plugins": [
-    "stylelint-scss"
+    "stylelint-scss",
+    "@namics/stylelint-bem"
   ],
 
   "rules": {
+    "plugin/stylelint-bem-namics": true,
     "no-empty-source": null,
     "declaration-block-no-duplicate-properties": true,
     "color-named": "never",
