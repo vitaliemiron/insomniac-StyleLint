@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/vitaliemiron/insomniac-styleLint#readme",
   "dependencies": {
+    "@namics/stylelint-bem": "^6.3.0",
     "stylelint-config-recess-order": "^2.0.4",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-scss": "^3.16.0"
