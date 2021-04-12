@@ -1,9 +1,6 @@
 {
-  "extends": ["stylelint-config-standard", "stylelint-config-recess-order"],
-  "plugins": [
-    "stylelint-scss",
-    "@namics/stylelint-bem"
-  ],
+  "extends": ["stylelint-config-standard"],
+  "plugins": ["stylelint-scss", "@namics/stylelint-bem"],
 
   "rules": {
     "plugin/stylelint-bem-namics": true,
@@ -13,7 +10,7 @@
     "at-rule-no-unknown": null,
     "scss/at-rule-no-unknown": true,
     "function-url-quotes": "always",
-    "string-quotes": "single",
+    "string-quotes": "double",
     "selector-list-comma-newline-after": "always-multi-line",
     "selector-list-comma-space-after": "always-single-line",
     "at-rule-name-newline-after": "always-multi-line",
@@ -24,7 +21,15 @@
     "at-rule-no-unknown": [
       true,
       {
-        "ignoreAtRules": ["function", "for", "if", "each", "include", "mixin"]
+        "ignoreAtRules": [
+          "function",
+          "for",
+          "if",
+          "each",
+          "include",
+          "mixin",
+          "extend"
+        ]
       }
     ],
     "plugin/stylelint-bem-namics": {
